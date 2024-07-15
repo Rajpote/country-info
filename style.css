@@ -103,8 +103,9 @@ body {
   font-size: 2rem;
   padding: 2rem 5rem;
   border-radius: 0.7rem;
-  color: white;
-  background-color: orangered;
+  color: black;
+  font-weight: bold;
+  background-color: greenyellow;
   cursor: pointer;
 }
 
